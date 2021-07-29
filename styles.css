@@ -15,3 +15,10 @@ h2 {
     background-color: whitesmoke;
     font-family: 'Style Script', cursive;
 }
+
+nav {background-color: gray;}
+
+nav a {color: whitesmoke}
+nav {color: whitesmoke}
+
+nav a:hover {background-color: rosybrown;}
