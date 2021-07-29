@@ -1,7 +1,17 @@
-body {color: rgb(34, 34, 34);
-background-color: whitesmoke}
+body {
+    color: rgb(34, 34, 34);
+    background-color: whitesmoke;
+    font-family: Georgia, serif;
+}
 
-h1 {color:teal;
-background-color: whitesmoke}
+h1 {
+    color:teal;
+    background-color: whitesmoke;
+    font-family: 'Style Script', cursive;
+}
 
-h2 {color:teal; background-color: whitesmoke;}
+h2 {
+    color:rgb(61, 238, 238); 
+    background-color: whitesmoke;
+    font-family: 'Style Script', cursive;
+}
