@@ -16,9 +16,21 @@ h2 {
     font-family: 'Style Script', cursive;
 }
 
-nav {background-color: sienna;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: sienna;
+}
 
 nav a {color: whitesmoke}
 nav {color: whitesmoke}
 
 nav a:hover {background-color: rosybrown;}
+
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+}
