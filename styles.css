@@ -1,34 +1,34 @@
 body {
     color: rgb(34, 34, 34);
-    background-color: whitesmoke;
+    background-color: rgb(212, 211, 211)ke;
     font-family: Georgia, serif;
 }
 
 h1 {
     color:teal;
-    background-color: whitesmoke;
+    background-color: rgb(212, 211, 211);
     font-family: 'Style Script', cursive;
 }
 
 h2 {
     color:rgb(61, 238, 238); 
-    background-color: whitesmoke;
+    background-color: rgb(212, 211, 211);
     font-family: 'Style Script', cursive;
 }
 
 nav {
     padding: 10px;
     margin-bottom: 30px;
-    background-color: sienna;
+    background-color: rgb(49, 47, 47);
 }
 
-nav a {color: whitesmoke}
-nav {color: whitesmoke}
+nav a {color: rgb(212, 211, 211)}
+nav {color: rgb(212, 211, 211)}
 
-nav a:hover {background-color: rosybrown;}
+nav a:hover {background-color: rgb(185, 215, 224);}
 
 div {
-    border: 1px solid black;
+    border: 1px solid rgb(61, 238, 238);
     margin: 30px;
     padding: 50px;
     background-color: white;
