@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-    color:rgb(61, 238, 238); 
+    color:rgb(4, 77, 77); 
     background-color: rgb(212, 211, 211);
     font-family: 'Style Script', cursive;
 }
@@ -23,9 +23,9 @@ nav {
 }
 
 nav a {color: rgb(212, 211, 211)}
-nav {color: rgb(212, 211, 211)}
+nav {color: rgb(211, 211, 212)}
 
-nav a:hover {background-color: rgb(185, 215, 224);}
+nav a:hover {background-color: rgb(73, 146, 146);}
 
 div {
     border: 1px solid rgb(61, 238, 238);
